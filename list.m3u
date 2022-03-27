@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ae/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
 #EXTINF:-1 tvg-id="ゴルフ.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",ゴルフ (404p)
 http://211.21.12.236:11935/live/cs03.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="スカイA.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",スカイA (404p)
+http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GAORA.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",GAORA (404p)
 http://211.21.12.236:11935/live/cs01.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GREEN.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",GREEN (404p)
@@ -88,8 +90,7 @@ http://211.21.12.236:11935/live/cs19.stream/playlist.m3u8
 http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV朝−２.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TV朝−２ (404p)
 http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="スカイA.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",スカイA (404p)
-http://211.21.12.236:11935/live/cs23.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="フジテレビONE.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",フジテレビONE (404p)
 http://211.21.12.236:11935/live/cs24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="日テレジータス.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",日テレジータス (404p)
