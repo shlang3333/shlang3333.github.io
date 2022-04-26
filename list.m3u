@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Fuji News Network (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw/live
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",TBS News
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
+
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK General TV (540p) [Not 24/7]
 https://nhk2.mov3.co/hls/nhk.m3u8
 
