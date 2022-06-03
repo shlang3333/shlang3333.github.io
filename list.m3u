@@ -1,4 +1,49 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/dk/allente.se.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS NHK Premium
+http://cdn.us195.jpnettv.live:1935/jptv/bspremium_540/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png/512px-NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="General",NHK BS1
+http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関西
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関東
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV
+http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Asahi
+http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Tokyo
+http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS Fuji TV
+http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS-TBS
+http://cdn.us195.jpnettv.live:1935/jptv/bstbs_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS11
+http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",衛星劇場
+http://cdn.us195.jpnettv.live:1935/jptv/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" group-title="Movies",Movie +
+http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" group-title="Documentary",National Geographic Japan
+http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOW プラス
+http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 1
+http://cdn.us195.jpnettv.live:1935/jptv/starch1_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 2
+http://cdn.us195.jpnettv.live:1935/jptv/starch2_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 3
+http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -21,8 +66,10 @@ https://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Undefined",TBS (540p) [Not 24/7]
 https://tbs1.mov3.co/hls/tbs.m3u8
 
-#EXTINF:-1 tvg-id="浜田がきの使い方　稳定.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="General",浜田がきの使い方稳定 (720p) [Not 24/7]
-https://hamada.gaki-no-tsukai.eu:2087/hls/test.m3u8
-
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/512px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Undefined",Tokyo MX2 (720p)
 https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+
+
+
+
+
