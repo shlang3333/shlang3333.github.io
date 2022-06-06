@@ -4,27 +4,39 @@
 http://cdn.us195.jpnettv.live:1935/jptv/bspremium_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png/512px-NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="General",NHK BS1
 http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関西
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関西(720)
 http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_720/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関東
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関西(540)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_nhk_g_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関東(720)
+http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",NHK General 関東(540)
 http://cdn.us195.jpnettv.live:1935/jptv/kanto_nhk_g_540/playlist.m3u8
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV
+
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV(720)
+http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV(540)
 http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Asahi
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Asahi(720)
+http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Asahi(540)
 http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Tokyo
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Tokyo(720)
+http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS TV Tokyo(540)
 http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS Fuji TV
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS Fuji TV(720)
+http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS Fuji TV(540)
 http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS-TBS
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS-TBS(720)
+http://cdn.us195.jpnettv.live:1935/jptv/bstbs_720/playlist.m3u8
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS-TBS(540)
 http://cdn.us195.jpnettv.live:1935/jptv/bstbs_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",BS11
-http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",衛星劇場
 http://cdn.us195.jpnettv.live:1935/jptv/gekijjyou/playlist.m3u8
@@ -35,24 +47,55 @@ http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-142-400x400.png" group-title="Documentary",National Geographic Japan
 http://cdn.us195.jpnettv.live:1935/jptv/National_geographic/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOW プラス
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOW プラス(720)
+http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOW プラス(540)
 http://cdn.us195.jpnettv.live:1935/jptv/cinefil_wowow_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 1
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWシネマ(720)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWシネマ(540)
+http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWプライム(720)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWプライム(540)
+http://cdn.us195.jpnettv.live:1935/jptv/wowprime_540/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWライブ(720)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWライブ(540)
+http://cdn.us195.jpnettv.live:1935/jptv/wowlive_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star1(720)
+http://cdn.us195.jpnettv.live:1935/jptv/starch1_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star1(540)
 http://cdn.us195.jpnettv.live:1935/jptv/starch1_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 2
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star2(720)
+http://cdn.us195.jpnettv.live:1935/jptv/starch2_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star2(540)
 http://cdn.us195.jpnettv.live:1935/jptv/starch2_540/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star Channel 3
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star3(720)
+http://cdn.us195.jpnettv.live:1935/jptv/starch3_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Star3(540)
 http://cdn.us195.jpnettv.live:1935/jptv/starch3_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/Ya4yHpC.jpg" group-title="News",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Fuji News Network (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw/live
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Nihon 映画TV(720)
+http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",Nihon 映画TV(540)
+http://cdn.us195.jpnettv.live:1935/jptv/igasennmonn_540/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",TBS News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png" group-title="Undefined",読売TV(720)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FD5-101-400x400.png" group-title="Undefined",読売TV(540)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_yomiuri_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",SUN TV(720)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_720/playlist.m3u8
+#EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",SUN TV(540)
+http://cdn.us195.jpnettv.live:1935/jptv/kansi_sun_tv_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK General TV (540p) [Not 24/7]
 https://nhk2.mov3.co/hls/nhk.m3u8
