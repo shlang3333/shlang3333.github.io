@@ -16,6 +16,13 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nippon TV  (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/xHKVbey.png" group-title="Undefined",Nippon TV (JOAXD-TV) (540p)
+https://cdn.us195.jpnettv.live/jptv/kanto_nippon_480/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png" group-title="Undefined",TV Asahi (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
@@ -129,5 +136,16 @@ https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png" group-title="Undefined",Nihon 映画 Senmon (540p)
 https://cdn.us195.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" group-title="Movies",Movie Plus (540p)
+http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Undefined",時代劇場 Channel (540p)
+https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png" group-title="Undefined",衛星劇場 (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
 
 
