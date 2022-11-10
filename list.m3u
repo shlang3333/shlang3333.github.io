@@ -92,6 +92,12 @@ http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 #EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" group-title="Undefined",Star 2 (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
 
+#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" group-title="Undefined",Star 3 (720p) [Not 24/7]
+https://cdn.us195.jpnettv.live/jptv/starch3_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/U53OlXu.png" group-title="General",Kansai TV (関西 テレビ) (JODX-DTV) (720p)
+https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GOLF.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J GOLF (480p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
 
@@ -130,6 +136,8 @@ http://cdn.us195.jpnettv.live:1935/jptv/wowlive_540/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/jce5Fgo.png" group-title="Undefined",WOWOW Prime (540p)
 http://cdn.us195.jpnettv.live:1935/jptv/wowprime_540/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-580-400x400.png" group-title="Undefined",東映 Channel (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-551-400x400.png" group-title="Family",劇場 (540p) [Not 24/7]
 https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
