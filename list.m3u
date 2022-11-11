@@ -6,8 +6,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK General TV (480p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/U53OlXu.png" group-title="General",NHK G (JOAK-DTV) (540p)
-https://cdn.us195.jpnettv.live/jptv/kanto_nhk_g_480/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="General",NHK E TV (480p) [Not 24/7]
@@ -15,9 +13,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nippon TV  (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-
-#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/xHKVbey.png" group-title="Undefined",Nippon TV (JOAXD-TV) (540p)
-https://cdn.us195.jpnettv.live/jptv/kanto_nippon_480/playlist.m3u8
 
 
 
@@ -42,37 +37,22 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 512px-NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="General",NHK BS1 (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png/512px-NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="General",NHK BS1 (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/nhkbs1_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png/512px-NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Undefined",NHK BSP (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png/512px-NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="Undefined",NHK BSP (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/bspremium_540/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/bsnihontv_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-141-400x400.png" group-title="General",BS Nippon TV (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.imgur.com/cHdLCwB.png" group-title="General",BS Asahi (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/bsasahi_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.imgur.com/cHdLCwB.png" group-title="General",BS Asahi (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS TBS (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/bstbs_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="https://i.imgur.com/g1pTQIm.png" group-title="General",BS TBS (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (540p) [Not 24/7]
-http://cdn.us195.jpnettv.live:1935/jptv/bsjapan_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
@@ -92,11 +72,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 #EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" group-title="Undefined",Star 2 (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
 
-#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" group-title="Undefined",Star 3 (720p) [Not 24/7]
-https://cdn.us195.jpnettv.live/jptv/starch3_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/U53OlXu.png" group-title="General",Kansai TV (関西 テレビ) (JODX-DTV) (720p)
-https://cdnv148.cloudrsst.com/jptv/kansi_tv_720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GOLF.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J GOLF (480p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/cs03hd/index.m3u8
@@ -120,40 +95,8 @@ http://redlabmcdn.s.llnwi.net/nv02/cs01hd/index.m3u8
 #EXTINF:-1 tvg-id="フジテレビ　NECO.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="Undefined",フジテレビ　NECO (480p)
 http://redlabmcdn.s.llnwi.net/nv02/cs05hd/index.m3u8
 
-#EXTINF:-1 tvg-id="ChannelNeco.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-556-400x400.png" group-title="Undefined",Neco (540p)
-https://cdn.us195.jpnettv.live/jptv/Neco/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-country="JP" tvg-language="" tvg-logo="" group-title="Undefined",WOWOWシネマ(480)
 http://redlabmcdn.s.llnwi.net/nv02/cs07hd/index.m3u8
-
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Movies",WOWOW Cinema (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowcinema_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.imgur.com/QPIULj6.png" group-title="Undefined",WOWOW Live (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowlive_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.imgur.com/jce5Fgo.png" group-title="Undefined",WOWOW Prime (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/wowprime_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ToeiChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-580-400x400.png" group-title="Undefined",東映 Channel (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FamilyGekijyo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-551-400x400.png" group-title="Family",劇場 (540p) [Not 24/7]
-https://cdn.us195.jpnettv.live/jptv/gekijjyou/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-125-400x400.png" group-title="Undefined",Nihon 映画 Senmon (540p)
-https://cdn.us195.jpnettv.live/jptv/igasennmonn_540/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MoviePlus.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png" group-title="Movies",Movie Plus (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/movieplus_540/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-159-400x400.png" group-title="Undefined",時代劇場 Channel (540p)
-https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="EiseiGekijo.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png" group-title="Undefined",衛星劇場 (540p) [Not 24/7]
-https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
 
 
