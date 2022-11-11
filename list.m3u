@@ -57,8 +57,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
 
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/9w3X0VC.png" group-title="General",BS Fuji TV (540p)
-http://cdn.us195.jpnettv.live:1935/jptv/bsfuji_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/9w3X0VC.png" group-title="General",BS Fuji (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
