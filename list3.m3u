@@ -4,51 +4,8 @@
 https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海新闻综合 (1080p) [Not 24/7]
-http://aliyun-shbu-live.bestvcdn.com.cn/live/program/live/xwzhhd/2300000/mnf.m3u8
+http://60.213.135.147/keonline.shanghai.liveplay.qq.com/live/program/live/xwzhhd/2300000/mnf.m3u8
 
 #EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International UK (720p)
 https://pull-l3-cny.douyincdn.com/live/72a84c3afab3fd09fac3d806d2aa9575.flv
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO HD (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/27c19e5de00e4ce55b540c99f2869055.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO family (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/d2763d2b795131674193cdcc23769e0b.flv
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO HiTS (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/c39b86c89d869f3b23239c9f36abeb94.flv
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Discovery Channel (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/c8442e18a9021a79c18a2876371ac84e.flv
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Discovery Science (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/969bf4eddccff0c065d5302c915d5a78.flv
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO Signature (1080p) [Not 24/7]
-https://pull-l3-cny.douyincdn.com/live/a798f2538f5f934eadec3a8e23d1a63f.flv
-
-
-#EXTINF:-1 tvg-id="EBCNews.tw" tvg-logo="https://i.imgur.com/obtCusJ.jpg" group-title="News",EBC News (東森新聞台) (1080p)
-https://pull-l3-cny.douyincdn.com/live/0bdc3ab53c5c958ded6c9c85b8dd77fa.flv
-
-
-
-#EXTINF:-1 tvg-id="TVBNewsChannel.hk" tvg-logo="https://i.imgur.com/cd5v79M.png" group-title="News",TVB 娛樂新聞News Channel (720p)
-https://pull-l3-cny.douyincdn.com/live/80be7e276329438f2fe07f33bf77f131.flv
-
-
-
-
-#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/3bzjW0l.png" group-title="News",CTi News (中天新聞台)
-https://pull-l3-cny.douyincdn.com/live/c2267d5367f19733060405f4901ae1fb.flv
-
-#EXTINF:-1 tvg-id="TVBS News.tw" tvg-logo="https://i.imgur.com/2XqmrM0.png" group-title="News",TVBS News (TVBS新聞台)
-https://pull-l3-cny.douyincdn.com/live/62422e4ef233e6a92938d8023738ed91.flv
