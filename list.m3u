@@ -15,9 +15,6 @@ http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="https://i.imgur.com/rls8NVc.png" group-title="Undefined",TV Asahi (480p)
 http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 
@@ -57,7 +54,6 @@ http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.imgur.com/yJfA6ak.png" group-title="General",BS TV Tokyo (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
 
-
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/9w3X0VC.png" group-title="General",BS Fuji (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 
@@ -69,6 +65,19 @@ http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 
 #EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" group-title="Undefined",Star 2 (480p)
 http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+
+#EXTINF:-1 tvg-id="Star1.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-200-400x400.png" group-title="Undefined",Star 1 (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/starch1_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Star2.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-201-400x400.png" group-title="Undefined",Star 2 (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/starch2_540/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Star3.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-0004-202-400x400.png" group-title="Undefined",Star 3 (540p) [Not 24/7]
+https://cdnv148.cloudrsst.com/jptv/starch3_540/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Discovery.jp" tvg-logo="https://i.imgur.com/cHdLCwB.png" group-title="General",Disconery (480p)
+http://redlabmcdn.s.llnwi.net/nv02/cs06hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="GOLF.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J GOLF (480p) [Not 24/7]
