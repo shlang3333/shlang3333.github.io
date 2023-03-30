@@ -106,3 +106,9 @@ https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 
 #EXTINF:-1 tvg-id="衛星劇場.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png" group-title="Undefined",衛星劇場 (540p) [Not 24/7]
 https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV-1综合 (1080p)
+https://cctvwbndks.v.kcdnvip.com/cctvwbnd/cctv1_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",上海新闻综合 (1080p) [Not 24/7]
+http://124.236.39.143/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/2300000/mnf.m3u8
