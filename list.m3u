@@ -9,8 +9,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="News",BBC News HD (720p) [Geo-blocked]
-http://1292072398.rsc.cdn77.org/qcaC7mqkV1AXMc30TA7H-Q==,1684488359/1292072398/tracks-v1a1/mono.m3u8
-
+http://1292072398.rsc.cdn77.org/QePhu5yNdt1vfbFfxkbnRQ==,1684506358/1292072398/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://i.imgur.com/iCLFnWw.png" group-title="Education",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
