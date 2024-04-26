@@ -1,7 +1,15 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="NTVNEWS24.jp" tvg-logo="https://i.imgur.com/Wfu61ZU.png" group-title="News",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="TBS NEWS.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",TBS NEWS (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
+#EXTINF:-1 tvg-id="CNN NEWS JP.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",CNN NEWS JP (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+
+
+
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 tvg-id="JOBKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Osaka) (544p)
@@ -10,8 +18,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
 #EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+
+
+
+
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Undefined",Nippon TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="Undefined",TBS (544p)
@@ -99,13 +112,37 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
 
+#EXTINF:-1 tvg-id="日テレ　ジータス.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",日テレ　ジータス (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+
+#EXTINF:-1 tvg-id="G NETWORK GOLF.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",G NETWORK GOLF(544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+
+#EXTINF:-1 tvg-id="ホームドラマ　チャンネル.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",ホームドラマ　チャンネル (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
 
 
+#EXTINF:-1 tvg-id="Discovery Japan.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",Discovery Japan (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 
 
+#EXTINF:-1 tvg-id="HISTORY.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",HISTORY (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC .jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",NATIONAL GEOGRAPHIC (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 
 
+#EXTINF:-1 tvg-id="ムービープラス.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",ムービープラス (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
 
+
+#EXTINF:-1 tvg-id="GAORA ガオラ.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",GAORA ガオラ (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+
+
+#EXTINF:-1 tvg-id="LaLa TV.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",LaLa TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 
 
 
