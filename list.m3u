@@ -8,6 +8,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 tvg-id="CNN NEWS JP.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",CNN NEWS JP (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 
+#EXTINF:-1 tvg-id="BBCNewsAsiaPacific.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News Asia Pacific (720p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (544p)
@@ -46,6 +48,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
 #EXTINF:-1 tvg-id="JOIXDTV.jp" tvg-logo="https://i.imgur.com/ONbuWvo.png" group-title="Undefined",YTV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 tvg-id="JOBHDTV.jp" tvg-logo="https://i.imgur.com/rUmrruq.png" group-title="Undefined",TV Osaka (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+
 #EXTINF:-1 tvg-id="JOUHDTV.jp" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="Entertainment",Sun TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
@@ -62,6 +67,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.imgur.com/aDdwjjc.png" group-title="General",BSフジ　(544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+#EXTINF:-1 tvg-id="BSShochikuTokyu.jp" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="Undefined",BS Shochiku Tokyu (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="Movies",WOWOW シネマ (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
@@ -108,6 +122,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 #EXTINF:-1 tvg-id="JSPORTS4.jp" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="Sports",J Sports 4 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+
+#EXTINF:-1 tvg-id="FujiTVNEXT.jp" tvg-logo="https://i.imgur.com/j95aeSA.png" group-title="Entertainment",Fuji TV NEXT (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+
+
 #EXTINF:-1 tvg-id="SkyA.jp" tvg-logo="https://i.imgur.com/h3KtKJ5.png" group-title="Undefined",スカイA (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
@@ -145,6 +164,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
 
 
+#EXTINF:-1 tvg-id="MONDOTV.jp" tvg-logo="https://i.imgur.com/mmpjpu2.png" group-title="Undefined",Mondo TV (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
 
 
 
