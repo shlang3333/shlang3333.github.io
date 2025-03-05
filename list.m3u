@@ -17,22 +17,37 @@ https://ythls.armelin.one/channel/UCCTpf5c_9HDo_OSu3aX8uFQ.m3u8
 
 
 
-
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="General",Fuji TV (540p)
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
-#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Tokyo) (540p) [Not 24/7]
-https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK General TV (720p)
+http://vthanh.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKETV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK E TV (720p)
+http://vthanh.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKBSTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK BS (720p)
+http://vthanh.utako.moe/NHK_BS/index.m3u8
+
+#EXTINF:-1 tvg-id="TVASAHI.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",TV ASAHI (720p)
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",Nippon TV (720p)
+http://vthanh.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="FujiTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",Fuji TV (720p)
+http://vthanh.utako.moe/Fuji_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TVTokyo.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",TV Tokyo (720p)
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1 tvg-id="TBSTV.jp" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",TBS (720p)
+http://vthanh.utako.moe/TBS/index.m3u8
 
 
 
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="General",Nippon TV (540p) [Not 24/7]
 https://ntv4.mov3.co/hls/ntv.m3u8
-
-
-
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="General",TBS (540p)
-https://tbs4.mov3.co/hls/tbs.m3u8
-
-
