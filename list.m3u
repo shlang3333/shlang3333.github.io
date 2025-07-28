@@ -31,3 +31,29 @@ http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
 #EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="General",Nippon TV (540p) [Not 24/7]
 https://ntv4.mov3.co/hls/ntv.m3u8
+
+# 東京証券取引所のストックボイス・スタジオからリアルタイムでの市況解説を中心に様々な投資情報をお届けします。
+#EXTINF:-1 tvg-dt="83" tvg-id="rch_83" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png" group-title="Rakuten-JP",STOCK VOICE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="fast_ch" tvg-id="fastch_samri" tvg-logo="https://prod-dxtool-fast.s3.ap-northeast-1.amazonaws.com/public/channels/30/INtnk2kg0AU2gPInpuF97dvQgbjMYqXtiehIhFMl.png",時代劇TV（Powered by 時代劇専門チャンネル）
+https://amg02570-amg02570c4-bbm-worldwide-3425.playouts.now.amagi.tv/playlist/amg02570-bbmcorporation-samurai-bbmworldwide/playlist.m3u8?did=&app_bundle=jp.fastv.atv&app_domain=jp.fastv.atv&app_name=FAST%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB&app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Djp.fastv.atv&us_privacy=1---&dnt=0&ifa_type=&lmt=0&url=https%3A%2F%2Fwww.fastv.jp%2F
+
+#EXTINF:-1 tvg-dt="47" tvg-id="rch_47" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" group-title="Rakuten-JP",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="101" tvg-id="rch_101" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_ntvnewsselect.png" group-title="Rakuten-JP",日テレNEWSセレクト グルメや生活情報、ニュース解説満載！
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="56" tvg-id="rch_56" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png" group-title="Rakuten-JP",共同通信News
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+
+# 世界最大の歴史エンタメブランド。隠された真実に焦点を当てた番組は、驚きと感動が満載。
+#EXTINF:-1 tvg-dt="43" tvg-id="rch_43" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/180_history.png" group-title="Rakuten-JP",HISTORY
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-historycmaf-rakutenjp/playlist.m3u8
+
+
+
+
+
